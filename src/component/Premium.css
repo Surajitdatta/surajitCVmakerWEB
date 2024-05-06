@@ -1,0 +1,14 @@
+.personal_img{
+    height:90px;
+    width:90px;
+    border:1px solid white;
+    border-radius: 50%;
+}
+.personal_main{
+    display:flex;
+    width:90%;
+    justify-content: space-between;
+}
+.premiumPrint{
+    background-image: linear-gradient(to top, #30cfd0 0%, #330867 100%);
+}
